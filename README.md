@@ -12,7 +12,7 @@ In this project, several queries were performed using PostgreSQL for a Vehicle R
 Briefly describe the tables used in your queries:
 * **Table users:** Stores customer information.
 * **Table vehicles:** Stores vehicles information.
-* **Table bookings:** Stores bookings information.
+* **Table bookings:** Stores bookings information and there will some foreign key user_id from users table, vehicle_id from vehicles table.
 
 ---
 
